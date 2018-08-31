@@ -36,6 +36,8 @@ appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow
 
 ## 关于本站
 
+* 本站主要记录我的学习，思想轨迹，同时也希望能分享自己学习的经验。
+
 **非常感谢Gaohaoyang的分享，若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
 
