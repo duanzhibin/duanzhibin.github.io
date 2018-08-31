@@ -22,5 +22,5 @@ author: duanzhibin
   对计算机视觉和算法比较感兴趣，致力于数学规则在实际场景下的应用。 后面会逐步将已完成的项目分享至该主页。
 
 
-![有帮助的截图]({{ site.url }}/downloads/2018-08-31-test-my-webapp/sm025.jpg)
+![有帮助的截图](/downloads/2018-08-31-test-my-webapp/sm025.jpg)
 
