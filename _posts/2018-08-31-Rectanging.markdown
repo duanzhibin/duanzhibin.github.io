@@ -37,14 +37,13 @@ author: duanzhibin
 
 ![]({{site.baseurl}}/downloads/Rectanging/picture_3.jpg)
 
-![]({{site.baseurl}}/downloads/Rectanging/picture_4.jpg)
 
-![]({{site.baseurl}}/downloads/Rectanging/picture_5.jpg)
+![]({{site.baseurl}}/downloads/Rectanging/picture_4.jpg)----------------------------------![]({{site.baseurl}}/downloads/Rectanging/picture_5.jpg)
+
+
 ## 4.global warping
 
-![]({{site.baseurl}}/downloads/Rectanging/picture_6.jpg)
-
-![]({{site.baseurl}}/downloads/Rectanging/picture_7.jpg)
+![]({{site.baseurl}}/downloads/Rectanging/picture_6.jpg) -------------------------------  ![]({{site.baseurl}}/downloads/Rectanging/picture_7.jpg)
 
 ### 4.1
 
